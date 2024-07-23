@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="{{ asset('coreui/vendors/@coreui/icons/css/free.min.css') }}">
     <style>
         body {
-            background-color: black;
+            background-color: #6EACDA;
             background-size: cover; 
         }
 
